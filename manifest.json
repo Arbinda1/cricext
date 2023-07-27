@@ -1,0 +1,11 @@
+{
+    "name": "Cricket Extension",
+    "version": "1.0.0",
+    "description": "This extension will give you the all the data of live Cricket matches and their result in a brief",
+    "manifest_version": 3,
+    "author": "Arbinda L Baruah",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Cricket Live Matches Extension"
+    }
+}
